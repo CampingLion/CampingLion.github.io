@@ -37,8 +37,8 @@ author: CampingLion
 # * sound recording copyright: (p) - ℗
 #
 # For example:
-#   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
-#   "Copyright © 2017-2021 Foobar"
+#   "Copyright (c) 2022-{currentYear} <a href="https://example.com">{author}</a>"
+#   "Copyright © 2022-2023 Foobar"
 #
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
