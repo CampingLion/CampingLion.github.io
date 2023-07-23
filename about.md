@@ -5,7 +5,7 @@ title: About
 
 ## About
 
-The purpose of this e-portfolio is to present evidence of meeting the learning objectives of the Machine Learning Course at the University of Essex. 
+The purpose of this e-portfolio is to present evidence in support of learning objectives of the Machine Learning Course at the University of Essex. 
 
 The objectives are as follows:
 
