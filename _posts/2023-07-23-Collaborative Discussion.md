@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unit 1: Introduction to Machine Learning
+title: Unit 1 - Introduction to Machine Learning
 subtitle: Collaborative Discussion
 categories: website
 ---
