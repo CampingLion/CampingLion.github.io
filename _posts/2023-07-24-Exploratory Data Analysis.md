@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Exploratory Data Analysis (EDA) - A worked example
-subtitle: (Unit 2)
+title: Unit 2 - Exploratory Data Analysis (EDA) - A worked example
 categories: Python
 ---
 
