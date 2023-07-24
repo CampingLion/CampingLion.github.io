@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Collaborative Discussion
-subtitle: (Unit 1)
+title: Unit 1: Introduction to Machine Learning
+subtitle: Collaborative Discussion
 categories: website
 ---
+
+## Introduction to Machine Learning
+The purpose of this unit was to establish the foundations of machine learning as a concept and as a tool, both from a historical context as well as by considering its impact on industry now and in the future. The study methods included a collaborative discussion forum, excerpts of which can be found below.  
 
 ## The 4th Industrial Revolution
 
@@ -133,4 +136,8 @@ Aujla, G.S. and Jindal, A., 2020. A decoupled blockchain approach for edge-envis
 Rai, B.K., 2023. PcBEHR: patient-controlled blockchain enabled electronic health records for healthcare 4.0. Health Services and Outcomes Research Methodology, 23(1), pp.80-102.
 
 Xu, J., Xue, K., Li, S., Tian, H., Hong, J., Hong, P. and Yu, N., 2019. Healthchain: A blockchain-based privacy preserving scheme for large-scale health data. IEEE Internet of Things Journal, 6(5), pp.8770-8781.
+
+## Reflections
+The concept of machines that have the ability to learn poses challenges in our society, not least because there is a perception that a key distinction between humankind and machines is in the former's ability to learn and develop with time. Although machine learning offers significant advantages in our modern industries, it may also act as an enabler for harmful and even criminal activity. It was both challenging and interested to consider the benefits and drawbacks of this technology and to attempt to formulate an opinion: as with other challenging ethical questions, public opinion will no doubt change depending on how familiar we become with the technology and whether or not adverse incidents result from its use. Although I read several articles on this subject, there is always more to read and this is an area I would like to spend more time on. 
+
 
