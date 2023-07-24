@@ -2,7 +2,6 @@
 layout: post
 title: Unit 3 - Correlation and Regression
 categories: Website
-tags: [correlation, regression]
 ---
 
 ## Introduction
