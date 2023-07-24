@@ -3,7 +3,6 @@ layout: post
 title: Exploratory Data Analysis (EDA) - A worked example
 subtitle: (Unit 2)
 categories: Python
-tags: [Python, Jupyter Notebook, EDA]
 ---
 
 ## Introduction to Exploratory Data Analysis (EDA)
