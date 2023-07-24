@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Unit 1
-subtitle: Collaborative Discussion
+title: Collaborative Discussion
+subtitle: (Unit 1)
 categories: website
 tags: [website]
 ---
