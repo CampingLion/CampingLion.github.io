@@ -2,7 +2,6 @@
 layout: post
 title: Unit 11 - Model Selection and Evaluation
 subtitle: Team Project 2
-categories: website
 ---
 
 ## Team project 2
